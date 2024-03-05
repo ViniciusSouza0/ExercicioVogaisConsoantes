@@ -8,7 +8,7 @@ public class ExercicioVogalConsoante {
 
 Scanner teclado2 = new Scanner(System.in);
 
-System.out.println("Escreva uma letra vogal minuscula ou MAISCULA");
+System.out.println("Escreva uma letra vogal minuscula ou MAIUSCULA");
 char letra = teclado2.next().charAt(0);
 
 switch (letra) {
